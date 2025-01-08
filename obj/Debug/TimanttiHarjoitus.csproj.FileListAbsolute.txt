@@ -1,0 +1,7 @@
+C:\Repo\TimanttiHarjoitus\obj\Debug\TimanttiHarjoitus.csproj.AssemblyReference.cache
+C:\Repo\TimanttiHarjoitus\obj\Debug\TimanttiHarjoitus.csproj.CoreCompileInputs.cache
+C:\Repo\TimanttiHarjoitus\bin\Debug\TimanttiHarjoitus.exe.config
+C:\Repo\TimanttiHarjoitus\bin\Debug\TimanttiHarjoitus.exe
+C:\Repo\TimanttiHarjoitus\bin\Debug\TimanttiHarjoitus.pdb
+C:\Repo\TimanttiHarjoitus\obj\Debug\TimanttiHarjoitus.exe
+C:\Repo\TimanttiHarjoitus\obj\Debug\TimanttiHarjoitus.pdb
